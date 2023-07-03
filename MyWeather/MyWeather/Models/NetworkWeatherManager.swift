@@ -14,7 +14,7 @@ class NetworkWeatherManager {
     
     var onCompelition: ((CurrentWeather) -> Void)?
     
-    let apiKey = "f91d402c6a041eb8d519cc33d0cf96d4"
+    let apiKey = "Here should be your api key"
     
     func fetchCurrentWeather(forCity city: String) {
         let urlString = "https://api.openweathermap.org/data/2.5/weather?q=\(city)&appid=\(apiKey)&units=metric"
