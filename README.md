@@ -1,7 +1,7 @@
 
 * Hi, this is my test project where i learned how to fetch data from internet and work with CoreLocation.
 
-* I used here :
+* I used:
     - MVC architecture
     - UIKit 
     - StoryBoard
